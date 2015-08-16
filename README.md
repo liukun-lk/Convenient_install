@@ -22,7 +22,9 @@ The .sh is convenient to install.
 chmod 777 ./install_jekyll.sh
 ```
 
-如果一切成功就进入你的 Jekyll 的文件夹内，运行`jekyll server`。
+如果一切成功就进入你的 Jekyll 的文件夹内，运行`jekyll server`或`jekyll s`。
+
+PS：进入你的博客文件夹后最好再运行一下`bundle install`。
 
 ---
 
