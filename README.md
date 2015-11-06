@@ -2,11 +2,11 @@
 
 The .sh is convenient to install.
 
----
+
 
 >直接运行 `git clone https://github.com/liukun-lk/Convenient_install.git` 到自己的本地目录下，然后`cd Convenient_install`。
 
----
+
 
 ###安装 Jekyll
 
@@ -26,7 +26,7 @@ chmod 777 ./install_jekyll.sh
 
 PS：进入你的博客文件夹后最好再运行一下`bundle install`。
 
----
+
 
 ###安装 Ruby 和 Rails
 
